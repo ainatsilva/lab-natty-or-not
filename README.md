@@ -17,25 +17,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+### WELCOME
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# CAIXA SENDO CAIXA NA IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+TENTATIVA DE APRENDER IA NO AMBIENTE CAIXA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+COPIEI E COLEI CURSO MUITO AVANCADO CONFORME A DIVULGACAO
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+AINDA SEM ENTENDER NADA 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Se um bootcamp para aprendizes foi divulgado como iniciante, mas exige habilidades avançadas, QUE GEROU ABANDONO DO CURSO, frustração e desmotivação entre os participantes.
 ```
 
 ### Exemplos e Insigths
